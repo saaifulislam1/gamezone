@@ -1,0 +1,12 @@
+We are using custom font in this react native project
+
+packages used:
+
+React Navigation:
+npm install @react-navigation/native
+
+and expo install:
+npx expo install react-native-screens react-native-safe-area-context
+
+React stack package:
+npm install react-navigation-stack
